@@ -1,0 +1,16 @@
+{
+  "name": "timeStampMicroService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Gustavo Bethelmy <tenchu96@gmail.com> (https://github.com/gigablack)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0"
+  }
+}
